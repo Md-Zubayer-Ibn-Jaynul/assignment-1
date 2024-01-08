@@ -11,7 +11,7 @@ body {
     font-family: 'Merriweather', serif;
 }
 
-.container {
+.container-1 {
     background-image: url('../resources/Banner\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -34,4 +34,30 @@ body {
 .banner-title {
     color: #FFF;
     font-size: 72px;
+}
+
+/* main section styles */
+
+.container-2 {
+    margin: 120px 399px;
+    text-align: center;
+}
+
+.offer {
+    margin: auto;
+}
+
+.text-title {
+    color: #F00;
+    font-size: 88px;
+}
+
+.text-info {
+    color: #F00;
+    font-size: 24px;
+}
+
+.text-greeting {
+    color: #070211;
+    font-size: 48px;
 }
