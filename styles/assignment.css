@@ -99,3 +99,36 @@ body {
     font-weight: 700;
     padding: 0px 601.17px 142px 32px;
 }
+
+.container-4 {
+    margin: 0px 140px 120px;
+    text-align: center;
+}
+
+.join-info {
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+.join-title {
+    color: #F00;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.join-btn {
+    margin: 48px 577px 110px 576px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+}
+
+.text-position {
+    margin: 100px 386px 0px 385px;
+}
