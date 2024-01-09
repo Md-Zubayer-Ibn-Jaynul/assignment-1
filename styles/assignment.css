@@ -156,6 +156,43 @@ body {
     padding: 49.08px;
 }
 
+.container-7 {
+    margin: 0px 140px 120px;
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sale {
+    padding: 0px 126px;
+}
+
+.holidays {
+    text-align: center;
+}
+
+.day-greeting {
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.day-title {
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.day-info {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.red {
+    color: #F00;
+}
+
 .best-greeting {
     color: #F00;
     font-size: 24px;
