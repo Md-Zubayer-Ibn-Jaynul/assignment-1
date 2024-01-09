@@ -270,3 +270,66 @@ body {
     font-weight: 600;
     border: none;
 }
+
+/* footer section style */
+
+.container-6 {
+    background: #070211;
+    padding: 0px 140px;
+}
+
+.style {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.con-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 135px 50px 0px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.address {
+    padding-right: 559px;
+}
+
+.top-right {
+    display: flex;
+}
+
+.top-img {
+    padding: 0px 16px;
+}
+
+.contact {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.link {
+    text-align: center;
+    padding: 48px 0px;
+}
+
+.copy {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.unsubscribe {
+    background: none;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+}
+
+.copyright {
+    padding: 50px 0px 120px 0px;
+    display: flex;
+    justify-content: space-between;
+}
